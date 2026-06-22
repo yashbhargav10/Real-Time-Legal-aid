@@ -1,0 +1,252 @@
+[
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 1?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 1 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 2?",
+        "ground_truth": "The Consumer Protection Act Section 2 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    },
+    {
+        "question": "What are the regulations regarding minimum wage for category 3 workers?",
+        "ground_truth": "According to Section 3 of the Code on Wages, category 3 workers must be paid the stipulated minimum wage.",
+        "domain": "Labour Rights"
+    },
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 4?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 4 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 5?",
+        "ground_truth": "The Consumer Protection Act Section 5 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    },
+    {
+        "question": "What are the regulations regarding minimum wage for category 6 workers?",
+        "ground_truth": "According to Section 6 of the Code on Wages, category 6 workers must be paid the stipulated minimum wage.",
+        "domain": "Labour Rights"
+    },
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 7?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 7 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 8?",
+        "ground_truth": "The Consumer Protection Act Section 8 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    },
+    {
+        "question": "What are the regulations regarding minimum wage for category 9 workers?",
+        "ground_truth": "According to Section 9 of the Code on Wages, category 9 workers must be paid the stipulated minimum wage.",
+        "domain": "Labour Rights"
+    },
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 10?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 10 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 11?",
+        "ground_truth": "The Consumer Protection Act Section 11 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    },
+    {
+        "question": "What are the regulations regarding minimum wage for category 12 workers?",
+        "ground_truth": "According to Section 12 of the Code on Wages, category 12 workers must be paid the stipulated minimum wage.",
+        "domain": "Labour Rights"
+    },
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 13?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 13 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 14?",
+        "ground_truth": "The Consumer Protection Act Section 14 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    },
+    {
+        "question": "What are the regulations regarding minimum wage for category 15 workers?",
+        "ground_truth": "According to Section 15 of the Code on Wages, category 15 workers must be paid the stipulated minimum wage.",
+        "domain": "Labour Rights"
+    },
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 16?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 16 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 17?",
+        "ground_truth": "The Consumer Protection Act Section 17 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    },
+    {
+        "question": "What are the regulations regarding minimum wage for category 18 workers?",
+        "ground_truth": "According to Section 18 of the Code on Wages, category 18 workers must be paid the stipulated minimum wage.",
+        "domain": "Labour Rights"
+    },
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 19?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 19 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 20?",
+        "ground_truth": "The Consumer Protection Act Section 20 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    },
+    {
+        "question": "What are the regulations regarding minimum wage for category 21 workers?",
+        "ground_truth": "According to Section 21 of the Code on Wages, category 21 workers must be paid the stipulated minimum wage.",
+        "domain": "Labour Rights"
+    },
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 22?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 22 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 23?",
+        "ground_truth": "The Consumer Protection Act Section 23 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    },
+    {
+        "question": "What are the regulations regarding minimum wage for category 24 workers?",
+        "ground_truth": "According to Section 24 of the Code on Wages, category 24 workers must be paid the stipulated minimum wage.",
+        "domain": "Labour Rights"
+    },
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 25?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 25 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 26?",
+        "ground_truth": "The Consumer Protection Act Section 26 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    },
+    {
+        "question": "What are the regulations regarding minimum wage for category 27 workers?",
+        "ground_truth": "According to Section 27 of the Code on Wages, category 27 workers must be paid the stipulated minimum wage.",
+        "domain": "Labour Rights"
+    },
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 28?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 28 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 29?",
+        "ground_truth": "The Consumer Protection Act Section 29 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    },
+    {
+        "question": "What are the regulations regarding minimum wage for category 30 workers?",
+        "ground_truth": "According to Section 30 of the Code on Wages, category 30 workers must be paid the stipulated minimum wage.",
+        "domain": "Labour Rights"
+    },
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 31?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 31 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 32?",
+        "ground_truth": "The Consumer Protection Act Section 32 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    },
+    {
+        "question": "What are the regulations regarding minimum wage for category 33 workers?",
+        "ground_truth": "According to Section 33 of the Code on Wages, category 33 workers must be paid the stipulated minimum wage.",
+        "domain": "Labour Rights"
+    },
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 34?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 34 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 35?",
+        "ground_truth": "The Consumer Protection Act Section 35 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    },
+    {
+        "question": "What are the regulations regarding minimum wage for category 36 workers?",
+        "ground_truth": "According to Section 36 of the Code on Wages, category 36 workers must be paid the stipulated minimum wage.",
+        "domain": "Labour Rights"
+    },
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 37?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 37 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 38?",
+        "ground_truth": "The Consumer Protection Act Section 38 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    },
+    {
+        "question": "What are the regulations regarding minimum wage for category 39 workers?",
+        "ground_truth": "According to Section 39 of the Code on Wages, category 39 workers must be paid the stipulated minimum wage.",
+        "domain": "Labour Rights"
+    },
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 40?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 40 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 41?",
+        "ground_truth": "The Consumer Protection Act Section 41 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    },
+    {
+        "question": "What are the regulations regarding minimum wage for category 42 workers?",
+        "ground_truth": "According to Section 42 of the Code on Wages, category 42 workers must be paid the stipulated minimum wage.",
+        "domain": "Labour Rights"
+    },
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 43?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 43 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 44?",
+        "ground_truth": "The Consumer Protection Act Section 44 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    },
+    {
+        "question": "What are the regulations regarding minimum wage for category 45 workers?",
+        "ground_truth": "According to Section 45 of the Code on Wages, category 45 workers must be paid the stipulated minimum wage.",
+        "domain": "Labour Rights"
+    },
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 46?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 46 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 47?",
+        "ground_truth": "The Consumer Protection Act Section 47 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    },
+    {
+        "question": "What are the regulations regarding minimum wage for category 48 workers?",
+        "ground_truth": "According to Section 48 of the Code on Wages, category 48 workers must be paid the stipulated minimum wage.",
+        "domain": "Labour Rights"
+    },
+    {
+        "question": "Under what circumstances can a landlord evict a tenant for reason 49?",
+        "ground_truth": "Under the Rent Control Act, eviction for reason 49 requires a 30-day notice and specific grounds of breach.",
+        "domain": "Tenant Rights"
+    },
+    {
+        "question": "What is the remedy for a defective product of type 50?",
+        "ground_truth": "The Consumer Protection Act Section 50 states the consumer is entitled to a full refund or replacement.",
+        "domain": "Consumer Rights"
+    }
+]

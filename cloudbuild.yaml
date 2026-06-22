@@ -1,0 +1,51 @@
+steps:
+  # 1. Build the API container image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/$PROJECT_ID/legal-aid-api', '-f', 'Dockerfile.api', '.']
+
+  # 2. Build the Streamlit UI container image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/$PROJECT_ID/legal-aid-ui', '-f', 'Dockerfile.streamlit', '.']
+
+  # 3. Push the API image to Container Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/$PROJECT_ID/legal-aid-api']
+
+  # 4. Push the UI image to Container Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/$PROJECT_ID/legal-aid-ui']
+
+  # 5. Deploy API to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'legal-aid-api'
+      - '--image'
+      - 'gcr.io/$PROJECT_ID/legal-aid-api'
+      - '--region'
+      - 'us-central1'
+      - '--allow-unauthenticated'
+
+  # 6. Deploy UI to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'legal-aid-ui'
+      - '--image'
+      - 'gcr.io/$PROJECT_ID/legal-aid-ui'
+      - '--region'
+      - 'us-central1'
+      - '--allow-unauthenticated'
+      - '--set-env-vars'
+      - 'API_URL=https://legal-aid-api-xxxxxxx-uc.a.run.app' # Placeholder, must be updated after API deploys
+
+images:
+  - 'gcr.io/$PROJECT_ID/legal-aid-api'
+  - 'gcr.io/$PROJECT_ID/legal-aid-ui'
+
+substitutions:
+  _REGION: us-central1
